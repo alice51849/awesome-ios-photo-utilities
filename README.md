@@ -19,7 +19,7 @@ A curated list of useful iPhone and iPad apps for taking, editing, scanning, imp
 - [Darkroom](https://apps.apple.com/app/id953286746) - Fast iOS-first photo and video editor with strong batch workflows.
 - [VSCO](https://apps.apple.com/app/id588013838) - Popular creative editor known for film-style filters and community features.
 - [Photomator](https://apps.apple.com/app/id1444636541) - ML-assisted photo editor from the Pixelmator team with repair and color tools.
-- [PhotoCream](https://apps.apple.com/app/id6781808054) - Lumi Studio utility for quick photo presentation and cleanup workflows.
+- [PhotoCream](https://apps.apple.com/app/id6781808054) - Lumi Studio utility for quick photo presentation and cleanup workflows. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/photocream.html)
 
 ## RAW & Camera
 
@@ -34,20 +34,20 @@ A curated list of useful iPhone and iPad apps for taking, editing, scanning, imp
 - [Scanner Pro](https://apps.apple.com/app/id333710667) - Polished document scanner with PDF export and smart cleanup.
 - [Microsoft Lens](https://apps.apple.com/app/id975925059) - Free scanner for documents, whiteboards, and Office workflows.
 - [Genius Scan](https://apps.apple.com/app/id377672876) - Lightweight scanner with perspective correction and PDF organization.
-- [ScanTo Pro](https://apps.apple.com/app/id6779977651) - Lumi Studio scanner for turning paper items into shareable digital files.
+- [ScanTo Pro](https://apps.apple.com/app/id6779977651) - Lumi Studio scanner for turning paper items into shareable digital files. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/scanto.html)
 
 ## Enhancement & Upscaling
 
 - [Remini](https://apps.apple.com/app/id1470373330) - AI photo enhancer focused on faces, old photos, and sharpness recovery.
 - [Pixelup](https://apps.apple.com/app/id1584206398) - AI photo enhancer for restoring and colorizing portraits.
 - [Photomator](https://apps.apple.com/app/id1444636541) - Includes repair, denoise, and ML enhancement features inside a full editor.
-- [Unblurry](https://apps.apple.com/app/id6782275018) - Lumi Studio utility for improving soft or blurry photos.
+- [Unblurry](https://apps.apple.com/app/id6782275018) - Lumi Studio utility for improving soft or blurry photos. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/unblurry.html)
 
 ## ID & Passport Photos
 
 - [Passport Photo - ID Photo](https://apps.apple.com/app/id917389447) - Utility for preparing passport and ID photos in common document sizes.
 - [ID Photo & Passport Portrait](https://apps.apple.com/app/id1343714181) - Passport-photo maker with background and size templates.
-- [Snapport](https://apps.apple.com/app/id6780575828) - Lumi Studio app for making ID or passport-style photos on iPhone.
+- [Snapport](https://apps.apple.com/app/id6780575828) - Lumi Studio app for making ID or passport-style photos on iPhone. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/snapport.html)
 
 ## Cleanup & Storage
 
@@ -55,7 +55,12 @@ A curated list of useful iPhone and iPad apps for taking, editing, scanning, imp
 - [Gemini Photos](https://apps.apple.com/app/id1277110040) - Helps find similar shots, duplicates, screenshots, and clutter.
 - [Slidebox](https://apps.apple.com/app/id914813037) - Gesture-based photo organizer for quickly sorting the camera roll.
 - [Cleanup: Phone Storage Cleaner](https://apps.apple.com/app/id1532588789) - Utility for removing duplicate photos, videos, and contacts.
-- [PicClear](https://apps.apple.com/app/id6780223070) - Lumi Studio utility for reviewing and clearing photo clutter.
+- [PicClear](https://apps.apple.com/app/id6780223070) - Lumi Studio utility for reviewing and clearing photo clutter. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/picclear.html)
+
+## Further reading
+
+- [iOS App Guide — pay-once app buying guides](https://alice51849.github.io/ios-app-guide/) — honest, no-subscription comparisons and how-tos.
+- [Answers to common questions](https://alice51849.github.io/ios-app-guide/answers/index.html) — practical iPhone how-to answers.
 
 ## Contributing
 
