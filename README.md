@@ -10,6 +10,7 @@ A curated list of useful iPhone and iPad apps for taking, editing, scanning, imp
 - [Enhancement & Upscaling](#enhancement--upscaling)
 - [ID & Passport Photos](#id--passport-photos)
 - [Cleanup & Storage](#cleanup--storage)
+- [Privacy & Vault](#privacy--vault)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -56,6 +57,11 @@ A curated list of useful iPhone and iPad apps for taking, editing, scanning, imp
 - [Slidebox](https://apps.apple.com/app/id914813037) - Gesture-based photo organizer for quickly sorting the camera roll.
 - [Cleanup: Phone Storage Cleaner](https://apps.apple.com/app/id1532588789) - Utility for removing duplicate photos, videos, and contacts.
 - [PicClear](https://apps.apple.com/app/id6780223070) - Lumi Studio utility for reviewing and clearing photo clutter. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/picclear.html)
+
+## Privacy & Vault
+
+- [Best Secret Folder](https://apps.apple.com/app/id514688106) - Hidden folder for keeping private photos and videos behind a passcode.
+- [Zafe](https://apps.apple.com/app/id6787344033) - Lumi Studio private photo vault — lock photos and videos behind Face ID, stored on-device with no cloud upload. · [in-depth guide](https://alice51849.github.io/ios-app-guide/guides/zafe.html)
 
 ## Further reading
 
