@@ -2,6 +2,8 @@
 
 A curated list of useful iPhone and iPad apps for taking, editing, scanning, improving, organizing, and preparing photos. This is a practical, non-ranked list: established apps and smaller indie tools are included when they solve a clear photo workflow.
 
+> **Disclosure:** This list is maintained by Lumi Studio, developer of the Lumi Studio apps named below. Entries are factual and non-ranked; other developers' apps are included for context.
+
 ## Contents
 
 - [Editing](#editing)
