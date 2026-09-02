@@ -49,6 +49,7 @@ A curated list of useful iPhone and iPad apps for taking, editing, scanning, imp
 - [Passport Photo - ID Photo](https://apps.apple.com/app/id917389447) - Utility for preparing passport and ID photos in common document sizes.
 - [ID Photo & Passport Portrait](https://apps.apple.com/app/id1343714181) - Passport-photo maker with background and size templates.
 - [Snapport](https://apps.apple.com/us/app/id6780575828?pt=118326163&ct=gh_aipu_en_us&mt=8) - Lumi Studio app for making ID or passport-style photos on iPhone. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/snapport.html)
+- [Snapport Lite](https://apps.apple.com/app/id6792856304) - Lumi Studio free-to-start passport, ID, and visa photo maker for compliant photos at home. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/snapportlite.html)
 
 ## Cleanup & Storage
 
@@ -57,11 +58,12 @@ A curated list of useful iPhone and iPad apps for taking, editing, scanning, imp
 - [Slidebox](https://apps.apple.com/app/id914813037) - Gesture-based photo organizer for quickly sorting the camera roll.
 - [Cleanup: Phone Storage Cleaner](https://apps.apple.com/app/id1532588789) - Utility for removing duplicate photos, videos, and contacts.
 - [PicClear](https://apps.apple.com/us/app/id6780223070?pt=118326163&ct=gh_aipu_en_us&mt=8) - Lumi Studio utility for reviewing and clearing photo clutter. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/picclear.html)
+- [ShotInbox AI](https://apps.apple.com/app/id6802166527) - Lumi Studio screenshot organizer that sorts and files screenshots; free to start. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/shotinbox.html)
 
 ## Privacy & Vault
 
 - [Best Secret Folder](https://apps.apple.com/app/id514688106) - Hidden folder for keeping private photos and videos behind a passcode.
-- [Zafe](https://apps.apple.com/app/id6787344033) - Lumi Studio private photo vault — lock photos and videos behind Face ID, stored on-device with no cloud upload. · [in-depth guide](https://alice51849.github.io/ios-app-guide/guides/zafe.html)
+- [Mask My File](https://apps.apple.com/app/id6792850916) - Lumi Studio tool that finds private details in a file before you share it, so you can mask them while keeping the context. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/maskmyfile.html)
 
 ## Further reading
 
