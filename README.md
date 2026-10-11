@@ -37,7 +37,7 @@ A curated list of useful iPhone and iPad apps for taking, editing, scanning, imp
 - [Scanner Pro](https://apps.apple.com/app/id333710667) - Polished document scanner with PDF export and smart cleanup.
 - [Microsoft Lens](https://apps.apple.com/app/id975925059) - Free scanner for documents, whiteboards, and Office workflows.
 - [Genius Scan](https://apps.apple.com/app/id377672876) - Lightweight scanner with perspective correction and PDF organization.
-- [ScanTo Pro](https://apps.apple.com/us/app/id6779977651?pt=118326163&ct=gh_aipu_en_us&mt=8) - Lumi Studio scanner for turning paper items into shareable digital files. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/scanto.html)
+- [ScanTo Pro](https://apps.apple.com/us/app/id6779977651?pt=118326163&ct=gh_aipu_en_us&mt=8) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.OfflineScannerPro)) - Lumi Studio scanner for turning paper items into shareable digital files. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/scanto.html)
 
 ## Enhancement & Upscaling
 
