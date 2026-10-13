@@ -59,7 +59,7 @@ A curated list of useful iPhone and iPad apps for taking, editing, scanning, imp
 - [Gemini Photos](https://apps.apple.com/app/id1277110040) - Helps find similar shots, duplicates, screenshots, and clutter.
 - [Slidebox](https://apps.apple.com/app/id914813037) - Gesture-based photo organizer for quickly sorting the camera roll.
 - [Cleanup: Phone Storage Cleaner](https://apps.apple.com/app/id1532588789) - Utility for removing duplicate photos, videos, and contacts.
-- [PicClear](https://apps.apple.com/us/app/id6780223070?pt=118326163&ct=gh_aipu_en_us&mt=8) - Lumi Studio utility for reviewing and clearing photo clutter. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/picclear.html)
+- [PicClear](https://apps.apple.com/us/app/id6780223070?pt=118326163&ct=gh_aipu_en_us&mt=8) ([Google Play](https://play.google.com/store/apps/details?id=com.picclear.app)) - Lumi Studio utility for reviewing and clearing photo clutter. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/picclear.html)
 - [ShotInbox AI](https://apps.apple.com/app/id6802166527) - Lumi Studio screenshot organizer that sorts and files screenshots; free to start. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/shotinbox.html)
 
 ## Privacy & Vault
