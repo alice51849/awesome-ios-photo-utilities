@@ -22,7 +22,7 @@ A curated list of useful iPhone and iPad apps for taking, editing, scanning, imp
 - [Darkroom](https://apps.apple.com/app/id953286746) - Fast iOS-first photo and video editor with strong batch workflows.
 - [VSCO](https://apps.apple.com/app/id588013838) - Popular creative editor known for film-style filters and community features.
 - [Photomator](https://apps.apple.com/app/id1444636541) - ML-assisted photo editor from the Pixelmator team with repair and color tools.
-- [PhotoCream](https://apps.apple.com/us/app/id6781808054?pt=118326163&ct=gh_aipu_en_us&mt=8) - Lumi Studio utility for quick photo presentation and cleanup workflows. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/photocream.html)
+- [PhotoCream](https://apps.apple.com/us/app/id6781808054?pt=118326163&ct=gh_aipu_en_us&mt=8) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.photocream)) - Lumi Studio utility for quick photo presentation and cleanup workflows. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/photocream.html)
 
 ## RAW & Camera
 
@@ -44,14 +44,14 @@ A curated list of useful iPhone and iPad apps for taking, editing, scanning, imp
 - [Remini](https://apps.apple.com/app/id1470373330) - AI photo enhancer focused on faces, old photos, and sharpness recovery.
 - [Pixelup](https://apps.apple.com/app/id1584206398) - AI photo enhancer for restoring and colorizing portraits.
 - [Photomator](https://apps.apple.com/app/id1444636541) - Includes repair, denoise, and ML enhancement features inside a full editor.
-- [Unblurry](https://apps.apple.com/us/app/id6782275018?pt=118326163&ct=gh_aipu_en_us&mt=8) - Lumi Studio utility for improving soft or blurry photos. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/unblurry.html)
+- [Unblurry](https://apps.apple.com/us/app/id6782275018?pt=118326163&ct=gh_aipu_en_us&mt=8) ([Google Play](https://play.google.com/store/apps/details?id=com.unblurry.app)) - Lumi Studio utility for improving soft or blurry photos. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/unblurry.html)
 
 ## ID & Passport Photos
 
 - [Passport Photo - ID Photo](https://apps.apple.com/app/id917389447) - Utility for preparing passport and ID photos in common document sizes.
 - [ID Photo & Passport Portrait](https://apps.apple.com/app/id1343714181) - Passport-photo maker with background and size templates.
 - [Snapport](https://apps.apple.com/us/app/id6780575828?pt=118326163&ct=gh_aipu_en_us&mt=8) - Lumi Studio app for making ID or passport-style photos on iPhone. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/snapport.html)
-- [Snapport Lite](https://apps.apple.com/app/id6792856304) - Lumi Studio free-to-start passport, ID, and visa photo maker for compliant photos at home. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/snapportlite.html)
+- [Snapport Lite](https://apps.apple.com/app/id6792856304) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.SnapportLite)) - Lumi Studio free-to-start passport, ID, and visa photo maker for compliant photos at home. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/snapportlite.html)
 
 ## Cleanup & Storage
 
@@ -60,12 +60,12 @@ A curated list of useful iPhone and iPad apps for taking, editing, scanning, imp
 - [Slidebox](https://apps.apple.com/app/id914813037) - Gesture-based photo organizer for quickly sorting the camera roll.
 - [Cleanup: Phone Storage Cleaner](https://apps.apple.com/app/id1532588789) - Utility for removing duplicate photos, videos, and contacts.
 - [PicClear](https://apps.apple.com/us/app/id6780223070?pt=118326163&ct=gh_aipu_en_us&mt=8) ([Google Play](https://play.google.com/store/apps/details?id=com.picclear.app)) - Lumi Studio utility for reviewing and clearing photo clutter. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/picclear.html)
-- [ShotInbox AI](https://apps.apple.com/app/id6802166527) - Lumi Studio screenshot organizer that sorts and files screenshots; free to start. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/shotinbox.html)
+- [ShotInbox AI](https://apps.apple.com/app/id6802166527) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.ShotInbox)) - Lumi Studio screenshot organizer that sorts and files screenshots; free to start. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/shotinbox.html)
 
 ## Privacy & Vault
 
 - [Best Secret Folder](https://apps.apple.com/app/id514688106) - Hidden folder for keeping private photos and videos behind a passcode.
-- [Mask My File](https://apps.apple.com/app/id6792850916) - Lumi Studio tool that finds private details in a file before you share it, so you can mask them while keeping the context. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/maskmyfile.html)
+- [Mask My File](https://apps.apple.com/app/id6792850916) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.MaskMyFile)) - Lumi Studio tool that finds private details in a file before you share it, so you can mask them while keeping the context. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/maskmyfile.html)
 
 ## Further reading
 
